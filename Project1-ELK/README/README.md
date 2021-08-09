@@ -72,6 +72,7 @@ A summary of the access policies in place can be found in the table below.
 | Web-3 DVWA | No                  | 10.1.0.4             |
 +------------+---------------------+----------------------+
 
+
 ### Elk Configuration
 
 Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because the processes of configuring additional machines gets simplified.
