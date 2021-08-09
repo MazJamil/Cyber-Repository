@@ -2,12 +2,12 @@
 
 The files in this repository were used to configure the network depicted below.
 
-Cybersecurity/Project1-ELK/README/Images/Network_Diagram.png
+Cyber-Repository/Project1-ELK/README/Images/Network_Diagram.png
 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the .yml file may be used to install only certain pieces of it, such as Filebeat.
 
-Cybersecurity/Project1-ELK/README/Ansible/filebeat.yml
+Cyber-Repository/Project1-ELK/README/Ansible/filebeat.yml
 
 
 This document contains the following details:
@@ -88,7 +88,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-Cybersecurity/Project1-ELK/README/Images/docker-ps.png
+Cyber-Repository/Project1-ELK/README/Images/docker-ps.png
 
 
 ### Target Machines & Beats
